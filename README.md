@@ -2,7 +2,7 @@
 
 `txtsearch` is a desktop application built with PyQt5 for searching specific phrases within files in a selected directory. The application supports searching within multiple file types and provides a user-friendly interface to view and save search results.
 
-![Application Screenshot](1.png)
+![Application Screenshot](1.jpg)
 
 ## 🚀 Features
 
