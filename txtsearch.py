@@ -21,7 +21,7 @@ class PhraseFinder(QMainWindow):
     def initUI(self):
         self.setWindowTitle('Advanced txtsearch')
         self.setGeometry(100, 100, 1200, 800)
-        self.setWindowIcon(QIcon("path/to/icon.png"))
+        self.setWindowIcon(QIcon("C:/Git/Python/129345217.png"))  # Update icon path here
 
         # Create main layout
         main_layout = QVBoxLayout()
