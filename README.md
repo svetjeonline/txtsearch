@@ -18,4 +18,7 @@
 To use this application, you need to have Python 3 installed. You also need to install the PyQt5 library. You can install PyQt5 using pip:
 
 ```bash
-pip install PyQt5
+
+python install.py
+python txtsearch.py
+
