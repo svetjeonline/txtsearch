@@ -4,21 +4,24 @@
 
 ![Application Screenshot](screenshot.png)
 
-## Features
+## 🚀 Features
 
-- Search for specific phrases within files in a selected directory
-- Supports multiple file types: `.txt`, `.py`, `.log`, `.md`, and all files
-- Displays search progress and results in a table
-- Highlights occurrences of the phrase in the file content
-- Save search results to a text file
-- Stop ongoing searches
+- 🔍 **Phrase Search:** Search for specific phrases within files in a selected directory.
+- 📂 **Multiple File Types:** Supports `.txt`, `.py`, `.log`, `.md`, and all files.
+- 📊 **Progress Tracking:** Displays search progress and results in a table.
+- ✨ **Highlighting:** Highlights occurrences of the phrase in the file content.
+- 💾 **Save Results:** Save search results to a text file.
+- 🛑 **Stop Search:** Ability to stop ongoing searches.
+
+## 📥 Installation
 
 ## Installation
 
-To use this application, you need to have Python 3 installed. You also need to install the PyQt5 library. You can install PyQt5 using pip:
+
 
 ```bash
-
+https://github.com/svetjeonline/txtsearch.git
+cd txtsearch
 python install.py
 python txtsearch.py
 
